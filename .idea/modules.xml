@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cucumber.iml" filepath="$PROJECT_DIR$/cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seleniumgear/seleniumgear.iml" filepath="$PROJECT_DIR$/seleniumgear/seleniumgear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uifeatures/uifeatures.iml" filepath="$PROJECT_DIR$/uifeatures/uifeatures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uisteps/uisteps.iml" filepath="$PROJECT_DIR$/uisteps/uisteps.iml" />
+    </modules>
+  </component>
+</project>
